@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://SocratesClub.github.io/sitemap.xml
+Sitemap: https://hty17330658526.github.io/sitemap.xml
