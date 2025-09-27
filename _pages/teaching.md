@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Learning
-description:希望自己学有所成！ 
+description: 希望自己学有所成！ 
 nav: true
 nav_order: 5
 ---
